@@ -3,6 +3,7 @@
 ```
 1. Two Sum
 9. Palindrome Number
+13. Roman to Integer
 20. Valid Parentheses
 67. Add Binary
 338. Counting Bits
