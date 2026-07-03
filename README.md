@@ -2,6 +2,7 @@
 ## Completed
 ```
 1. Two Sum
+9. Palindrome Number
 20. Valid Parentheses
 67. Add Binary
 338. Counting Bits
