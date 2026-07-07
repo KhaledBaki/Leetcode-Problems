@@ -9,6 +9,7 @@
 26. Remove Duplicates from Sorted Array
 67. Add Binary
 190. Reverse Bits
+227. Basic Calculator II
 258. Add Digits
 338. Counting Bits
 ```
