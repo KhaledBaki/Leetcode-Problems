@@ -1,5 +1,5 @@
 # Leetcode-Problems
-## Completed
+## Completed ✅
 ```
 1. Two Sum
 4. Median of Two Sorted Arrays
@@ -14,5 +14,10 @@
 258. Add Digits
 338. Counting Bits
 ```
-## In Progress
 
+---
+
+## In Progress 🔨
+```
+27. Remove Element
+```
