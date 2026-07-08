@@ -20,4 +20,5 @@
 ## In Progress 🔨
 ```
 27. Remove Element
+3754. Concatenate Non-Zero Digits and Multiply by Sum I
 ```
