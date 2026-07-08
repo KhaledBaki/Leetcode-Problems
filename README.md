@@ -7,6 +7,7 @@
 13. Roman to Integer
 20. Valid Parentheses
 26. Remove Duplicates from Sorted Array
+35. Search Insert Position
 67. Add Binary
 190. Reverse Bits
 227. Basic Calculator II
