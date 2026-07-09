@@ -13,6 +13,7 @@
 227. Basic Calculator II
 258. Add Digits
 338. Counting Bits
+1768. Merge Strings Alternately
 ```
 
 ---
