@@ -17,6 +17,7 @@
 338. Counting Bits
 389. Find the Difference
 709. To Lower Case
+1232. Check If It Is a Straight Line
 1768. Merge Strings Alternately
 ```
 
