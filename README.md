@@ -18,6 +18,7 @@
 389. Find the Difference
 709. To Lower Case
 1232. Check If It Is a Straight Line
+1523. Count Odd Numbers in an Interval Range
 1768. Merge Strings Alternately
 ```
 
