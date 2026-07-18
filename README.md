@@ -14,6 +14,7 @@
 67. Add Binary
 190. Reverse Bits
 227. Basic Calculator II
+242. Valid Anagram
 258. Add Digits
 338. Counting Bits
 389. Find the Difference
