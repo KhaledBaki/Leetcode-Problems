@@ -19,6 +19,7 @@
 258. Add Digits
 338. Counting Bits
 389. Find the Difference
+459. Repeated Substring Pattern
 709. To Lower Case
 860. Lemonade Change
 1232. Check If It Is a Straight Line
