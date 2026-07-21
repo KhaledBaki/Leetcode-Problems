@@ -26,6 +26,7 @@
 1491. Average Salary Excluding the Minimum and Maximum Salary
 1523. Count Odd Numbers in an Interval Range
 1768. Merge Strings Alternately
+1822. Sign of the Product of an Array
 ```
 
 ---
