@@ -17,6 +17,7 @@
 227. Basic Calculator II
 242. Valid Anagram
 258. Add Digits
+283. Move Zeroes
 338. Counting Bits
 389. Find the Difference
 459. Repeated Substring Pattern
