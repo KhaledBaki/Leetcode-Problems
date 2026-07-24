@@ -23,6 +23,7 @@
 459. Repeated Substring Pattern
 709. To Lower Case
 860. Lemonade Change
+896. Monotonic Array
 1232. Check If It Is a Straight Line
 1491. Average Salary Excluding the Minimum and Maximum Salary
 1502. Can Make Arithmetic Progression From Sequence
