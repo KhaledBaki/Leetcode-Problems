@@ -28,6 +28,7 @@
 1491. Average Salary Excluding the Minimum and Maximum Salary
 1502. Can Make Arithmetic Progression From Sequence
 1523. Count Odd Numbers in an Interval Range
+1572. Matrix Diagonal Sum
 1768. Merge Strings Alternately
 1822. Sign of the Product of an Array
 ```
