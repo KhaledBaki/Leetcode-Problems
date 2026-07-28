@@ -33,6 +33,7 @@
 1672. Richest Customer Wealth
 1768. Merge Strings Alternately
 1822. Sign of the Product of an Array
+3536. Maximum Product of Two Digits
 ```
 
 ---
