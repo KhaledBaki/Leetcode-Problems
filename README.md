@@ -21,6 +21,7 @@
 338. Counting Bits
 389. Find the Difference
 459. Repeated Substring Pattern
+628. Maximum Product of Three Numbers
 709. To Lower Case
 860. Lemonade Change
 896. Monotonic Array
