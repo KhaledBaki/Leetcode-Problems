@@ -25,6 +25,7 @@
 709. To Lower Case
 860. Lemonade Change
 896. Monotonic Array
+977. Squares of a Sorted Array
 1232. Check If It Is a Straight Line
 1464. Maximum Product of Two Elements in an Array
 1491. Average Salary Excluding the Minimum and Maximum Salary
