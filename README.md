@@ -13,6 +13,7 @@
 58. Length of Last Word
 66. Plus One
 67. Add Binary
+125. Valid Palindrome
 190. Reverse Bits
 227. Basic Calculator II
 242. Valid Anagram
