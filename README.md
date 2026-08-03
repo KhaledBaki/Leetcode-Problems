@@ -37,6 +37,7 @@
 1672. Richest Customer Wealth
 1768. Merge Strings Alternately
 1822. Sign of the Product of an Array
+3110. Score of a String
 3536. Maximum Product of Two Digits
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 ```
