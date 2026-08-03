@@ -38,6 +38,7 @@
 1768. Merge Strings Alternately
 1822. Sign of the Product of an Array
 3536. Maximum Product of Two Digits
+3754. Concatenate Non-Zero Digits and Multiply by Sum I
 ```
 
 ---
@@ -45,5 +46,4 @@
 ## In Progress 🔨
 ```
 27. Remove Element
-3754. Concatenate Non-Zero Digits and Multiply by Sum I
 ```
