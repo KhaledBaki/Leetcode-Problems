@@ -16,6 +16,7 @@
 125. Valid Palindrome
 190. Reverse Bits
 227. Basic Calculator II
+231. Power of Two
 242. Valid Anagram
 258. Add Digits
 283. Move Zeroes
