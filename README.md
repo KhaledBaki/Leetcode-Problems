@@ -41,6 +41,7 @@
 1929. Concatenation of Array
 3110. Score of a String
 3536. Maximum Product of Two Digits
+3731. Find Missing Elements
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 ```
 
