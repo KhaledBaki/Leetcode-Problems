@@ -41,6 +41,7 @@
 1768. Merge Strings Alternately
 1822. Sign of the Product of an Array
 1929. Concatenation of Array
+2011. Final Value of Variable After Performing Operations
 3110. Score of a String
 3536. Maximum Product of Two Digits
 3731. Find Missing Elements
