@@ -45,6 +45,7 @@
 2469. Convert the Temperature
 3110. Score of a String
 3536. Maximum Product of Two Digits
+3701. Compute Alternating Sum
 3731. Find Missing Elements
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 ```
