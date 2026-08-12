@@ -43,6 +43,7 @@
 1929. Concatenation of Array
 2011. Final Value of Variable After Performing Operations
 2469. Convert the Temperature
+2553. Separate the Digits in an Array
 3110. Score of a String
 3536. Maximum Product of Two Digits
 3701. Compute Alternating Sum
