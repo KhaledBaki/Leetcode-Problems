@@ -44,6 +44,7 @@
 2011. Final Value of Variable After Performing Operations
 2469. Convert the Temperature
 2553. Separate the Digits in an Array
+2942. Find Words Containing Character
 3110. Score of a String
 3536. Maximum Product of Two Digits
 3701. Compute Alternating Sum
