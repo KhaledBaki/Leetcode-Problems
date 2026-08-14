@@ -45,6 +45,7 @@
 2469. Convert the Temperature
 2553. Separate the Digits in an Array
 2942. Find Words Containing Character
+2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 3110. Score of a String
 3536. Maximum Product of Two Digits
 3701. Compute Alternating Sum
@@ -57,5 +58,4 @@
 ## In Progress 🔨
 ```
 27. Remove Element
-2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 ```
