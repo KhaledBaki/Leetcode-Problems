@@ -57,4 +57,5 @@
 ## In Progress 🔨
 ```
 27. Remove Element
+2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 ```
