@@ -13,6 +13,7 @@
 58. Length of Last Word
 66. Plus One
 67. Add Binary
+73. Set Matrix Zeroes
 125. Valid Palindrome
 136. Single Number
 190. Reverse Bits
