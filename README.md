@@ -53,6 +53,7 @@
 3701. Compute Alternating Sum
 3731. Find Missing Elements
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
+3794. Reverse String Prefix
 ```
 
 ---
