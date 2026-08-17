@@ -40,6 +40,7 @@
 1550. Three Consecutive Odds
 1572. Matrix Diagonal Sum
 1672. Richest Customer Wealth
+1716. Calculate Money in Leetcode Bank
 1768. Merge Strings Alternately
 1822. Sign of the Product of an Array
 1929. Concatenation of Array
