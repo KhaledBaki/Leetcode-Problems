@@ -46,6 +46,7 @@
 2011. Final Value of Variable After Performing Operations
 2469. Convert the Temperature
 2553. Separate the Digits in an Array
+2652. Sum Multiples
 2942. Find Words Containing Character
 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 3110. Score of a String
