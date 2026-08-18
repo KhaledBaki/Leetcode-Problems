@@ -17,6 +17,7 @@
 125. Valid Palindrome
 136. Single Number
 190. Reverse Bits
+195. Tenth Line
 227. Basic Calculator II
 231. Power of Two
 242. Valid Anagram
