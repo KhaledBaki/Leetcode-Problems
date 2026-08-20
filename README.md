@@ -51,6 +51,7 @@
 2553. Separate the Digits in an Array
 2558. Take Gifts From the Richest Pile
 2652. Sum Multiples
+2833. Furthest Point From Origin
 2942. Find Words Containing Character
 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 3110. Score of a String
