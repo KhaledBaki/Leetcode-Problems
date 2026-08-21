@@ -14,6 +14,7 @@
 66. Plus One
 67. Add Binary
 73. Set Matrix Zeroes
+83. Remove Duplicates from Sorted List
 125. Valid Palindrome
 136. Single Number
 190. Reverse Bits
