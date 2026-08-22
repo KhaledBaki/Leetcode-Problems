@@ -57,6 +57,7 @@
 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 3110. Score of a String
 3536. Maximum Product of Two Digits
+3622. Check Divisibility by Digit Sum and Product
 3701. Compute Alternating Sum
 3731. Find Missing Elements
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
