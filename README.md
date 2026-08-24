@@ -29,6 +29,7 @@
 389. Find the Difference
 434. Number of Segments in a String
 459. Repeated Substring Pattern
+605. Can Place Flowers
 628. Maximum Product of Three Numbers
 709. To Lower Case
 860. Lemonade Change
