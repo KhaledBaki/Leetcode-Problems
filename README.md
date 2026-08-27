@@ -7,6 +7,7 @@
 9. Palindrome Number
 13. Roman to Integer
 20. Valid Parentheses
+21. Merge Two Sorted Lists
 26. Remove Duplicates from Sorted Array
 28. Find the Index of the First Occurrence in a String
 35. Search Insert Position
