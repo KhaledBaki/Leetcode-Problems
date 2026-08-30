@@ -60,6 +60,7 @@
 2833. Furthest Point From Origin
 2942. Find Words Containing Character
 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
+3024. Type of Triangle
 3110. Score of a String
 3232. Find if Digit Game Can Be Won
 3536. Maximum Product of Two Digits
