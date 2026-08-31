@@ -19,6 +19,7 @@
 83. Remove Duplicates from Sorted List
 125. Valid Palindrome
 136. Single Number
+141. Linked List Cycle
 190. Reverse Bits
 195. Tenth Line
 227. Basic Calculator II
