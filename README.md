@@ -40,6 +40,7 @@
 977. Squares of a Sorted Array
 1108. Defanging an IP Address
 1232. Check If It Is a Straight Line
+1281. Subtract the Product and Sum of Digits of an Integer
 1464. Maximum Product of Two Elements in an Array
 1491. Average Salary Excluding the Minimum and Maximum Salary
 1502. Can Make Arithmetic Progression From Sequence
