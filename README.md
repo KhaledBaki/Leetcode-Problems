@@ -71,6 +71,7 @@
 3731. Find Missing Elements
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 3794. Reverse String Prefix
+3875. Construct Uniform Parity Array I
 ```
 
 ---
