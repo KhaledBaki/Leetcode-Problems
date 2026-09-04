@@ -72,6 +72,7 @@
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 3794. Reverse String Prefix
 3875. Construct Uniform Parity Array I
+3903. Smallest Stable Index I
 ```
 
 ---
