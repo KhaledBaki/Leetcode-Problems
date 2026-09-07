@@ -27,6 +27,7 @@
 242. Valid Anagram
 258. Add Digits
 283. Move Zeroes
+326. Power of Three
 338. Counting Bits
 344. Reverse String
 389. Find the Difference
