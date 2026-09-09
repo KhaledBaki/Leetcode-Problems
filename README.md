@@ -83,5 +83,6 @@
 ## In Progress 🔨
 ```
 27. Remove Element
+119. Pascal's Triangle
 1260. Shift 2D Grid
 ```
