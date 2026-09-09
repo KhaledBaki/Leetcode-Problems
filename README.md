@@ -17,6 +17,7 @@
 67. Add Binary
 73. Set Matrix Zeroes
 83. Remove Duplicates from Sorted List
+119. Pascal's Triangle II
 125. Valid Palindrome
 136. Single Number
 141. Linked List Cycle
@@ -83,6 +84,5 @@
 ## In Progress 🔨
 ```
 27. Remove Element
-119. Pascal's Triangle
 1260. Shift 2D Grid
 ```
