@@ -54,6 +54,7 @@
 1716. Calculate Money in Leetcode Bank
 1768. Merge Strings Alternately
 1822. Sign of the Product of an Array
+1832. Check if the Sentence Is Pangram
 1929. Concatenation of Array
 2011. Final Value of Variable After Performing Operations
 2469. Convert the Temperature
