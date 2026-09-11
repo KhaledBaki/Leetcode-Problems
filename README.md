@@ -69,6 +69,7 @@
 3024. Type of Triangle
 3110. Score of a String
 3232. Find if Digit Game Can Be Won
+3512. Minimum Operations to Make Array Sum Divisible by K
 3536. Maximum Product of Two Digits
 3622. Check Divisibility by Digit Sum and Product
 3701. Compute Alternating Sum
