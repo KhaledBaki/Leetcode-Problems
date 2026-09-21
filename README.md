@@ -86,6 +86,7 @@
 3903. Smallest Stable Index I
 3904. Smallest Stable Index II
 3945. Digit Frequency Score
+4030. Check ASCII Palindromic
 ```
 
 ---
