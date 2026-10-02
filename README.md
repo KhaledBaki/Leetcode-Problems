@@ -18,6 +18,7 @@
 67. Add Binary
 73. Set Matrix Zeroes
 83. Remove Duplicates from Sorted List
+100. Same Tree
 119. Pascal's Triangle II
 125. Valid Palindrome
 136. Single Number
