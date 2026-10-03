@@ -51,6 +51,7 @@
 1295. Find Numbers with Even Number of Digits
 1323. Maximum 69 Number
 1464. Maximum Product of Two Elements in an Array
+1480. Running Sum of 1d Array
 1491. Average Salary Excluding the Minimum and Maximum Salary
 1502. Can Make Arithmetic Progression From Sequence
 1523. Count Odd Numbers in an Interval Range
