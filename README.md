@@ -35,6 +35,7 @@
 326. Power of Three
 338. Counting Bits
 344. Reverse String
+349. Intersection of Two Arrays
 389. Find the Difference
 434. Number of Segments in a String
 459. Repeated Substring Pattern
