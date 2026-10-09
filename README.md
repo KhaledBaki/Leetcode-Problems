@@ -32,6 +32,7 @@
 231. Power of Two
 242. Valid Anagram
 258. Add Digits
+263. Ugly Number
 283. Move Zeroes
 326. Power of Three
 338. Counting Bits
