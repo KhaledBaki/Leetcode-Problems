@@ -84,6 +84,7 @@
 3498. Reverse Degree of a String
 3512. Minimum Operations to Make Array Sum Divisible by K
 3536. Maximum Product of Two Digits
+3550. Smallest Index With Digit Sum Equal to Index
 3622. Check Divisibility by Digit Sum and Product
 3701. Compute Alternating Sum
 3731. Find Missing Elements
