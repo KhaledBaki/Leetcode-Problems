@@ -73,6 +73,7 @@
 2558. Take Gifts From the Richest Pile
 2652. Sum Multiples
 2769. Find the Maximum Achievable Number
+2778. Sum of Squares of Special Elements 
 2798. Number of Employees Who Met the Target
 2833. Furthest Point From Origin
 2942. Find Words Containing Character
