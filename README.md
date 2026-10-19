@@ -68,6 +68,7 @@
 1832. Check if the Sentence Is Pangram
 1929. Concatenation of Array
 2011. Final Value of Variable After Performing Operations
+2089. Find Target Indices After Sorting Array
 2469. Convert the Temperature
 2553. Separate the Digits in an Array
 2558. Take Gifts From the Richest Pile
