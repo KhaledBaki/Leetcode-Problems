@@ -18,6 +18,7 @@
 67. Add Binary
 73. Set Matrix Zeroes
 83. Remove Duplicates from Sorted List
+94. Binary Tree Inorder Traversal
 100. Same Tree
 101. Symmetric Tree
 119. Pascal's Triangle II
