@@ -23,6 +23,7 @@
 100. Same Tree
 101. Symmetric Tree
 104. Maximum Depth of Binary Tree
+111. Minimum Depth of Binary Tree
 112. Path Sum
 119. Pascal's Triangle II
 125. Valid Palindrome
