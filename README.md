@@ -60,6 +60,7 @@
 1232. Check If It Is a Straight Line
 1281. Subtract the Product and Sum of Digits of an Integer
 1295. Find Numbers with Even Number of Digits
+1305. All Elements in Two Binary Search Trees
 1323. Maximum 69 Number
 1464. Maximum Product of Two Elements in an Array
 1480. Running Sum of 1d Array
