@@ -94,6 +94,7 @@
 3232. Find if Digit Game Can Be Won
 3498. Reverse Degree of a String
 3512. Minimum Operations to Make Array Sum Divisible by K
+3516. Find Closest Person
 3536. Maximum Product of Two Digits
 3550. Smallest Index With Digit Sum Equal to Index
 3622. Check Divisibility by Digit Sum and Product
