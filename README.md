@@ -80,6 +80,7 @@
 2011. Final Value of Variable After Performing Operations
 2089. Find Target Indices After Sorting Array
 2331. Evaluate Boolean Binary Tree
+2396. Strictly Palindromic Number
 2469. Convert the Temperature
 2553. Separate the Digits in an Array
 2558. Take Gifts From the Richest Pile
