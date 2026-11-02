@@ -120,3 +120,9 @@
 27. Remove Element
 1260. Shift 2D Grid
 ```
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img height="165" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=activity" />
+  <img height="165" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=heatmap" />
+</p>
