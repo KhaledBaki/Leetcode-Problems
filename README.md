@@ -123,6 +123,6 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img height="165" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=activity" />
-  <img height="165" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=heatmap" />
+  <img height="400" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=activity" />
+  <img height="400" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=heatmap" />
 </p>
