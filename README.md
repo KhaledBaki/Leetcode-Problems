@@ -104,6 +104,7 @@
 3622. Check Divisibility by Digit Sum and Product
 3701. Compute Alternating Sum
 3731. Find Missing Elements
+3736. Minimum Moves to Equal Array Elements III
 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 3783. Mirror Distance of an Integer
 3794. Reverse String Prefix
