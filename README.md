@@ -122,6 +122,7 @@
 ## In Progress 🔨
 ```
 27. Remove Element
+617. Merge Two Binary Trees
 1260. Shift 2D Grid
 ```
 ## 🧩 LeetCode Stats
