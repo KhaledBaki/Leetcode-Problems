@@ -79,6 +79,7 @@
 1929. Concatenation of Array
 2011. Final Value of Variable After Performing Operations
 2089. Find Target Indices After Sorting Array
+2236. Root Equals Sum of Children
 2331. Evaluate Boolean Binary Tree
 2396. Strictly Palindromic Number
 2469. Convert the Temperature
