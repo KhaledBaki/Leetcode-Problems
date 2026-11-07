@@ -55,6 +55,7 @@
 860. Lemonade Change
 876. Middle of the Linked List
 896. Monotonic Array
+897. Increasing Order Search Tree
 977. Squares of a Sorted Array
 1108. Defanging an IP Address
 1232. Check If It Is a Straight Line
