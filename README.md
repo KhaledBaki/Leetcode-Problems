@@ -123,6 +123,7 @@
 ```
 27. Remove Element
 617. Merge Two Binary Trees
+662. Maximum Width of Binary Tree
 1260. Shift 2D Grid
 ```
 ## 🧩 LeetCode Stats
