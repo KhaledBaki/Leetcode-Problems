@@ -126,6 +126,7 @@
 617. Merge Two Binary Trees
 662. Maximum Width of Binary Tree
 1260. Shift 2D Grid
+1331. Rank Transform of an Array
 ```
 ## 🧩 LeetCode Stats
 
