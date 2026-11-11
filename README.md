@@ -84,6 +84,7 @@
 2236. Root Equals Sum of Children
 2331. Evaluate Boolean Binary Tree
 2396. Strictly Palindromic Number
+2415. Reverse Odd Levels of Binary Tree
 2469. Convert the Temperature
 2553. Separate the Digits in an Array
 2558. Take Gifts From the Richest Pile
