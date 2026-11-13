@@ -35,6 +35,7 @@
 206. Reverse Linked List
 227. Basic Calculator II
 231. Power of Two
+237. Delete Node in a Linked List
 242. Valid Anagram
 258. Add Digits
 263. Ugly Number
