@@ -55,6 +55,7 @@
 605. Can Place Flowers
 628. Maximum Product of Three Numbers
 700. Search in a Binary Search Tree
+701. Insert into a Binary Search Tree
 709. To Lower Case
 860. Lemonade Change
 876. Middle of the Linked List
