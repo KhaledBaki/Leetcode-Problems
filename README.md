@@ -30,6 +30,7 @@
 136. Single Number
 141. Linked List Cycle
 145. Binary Tree Postorder Traversal
+148. Sort List
 190. Reverse Bits
 195. Tenth Line
 202. Happy Number
