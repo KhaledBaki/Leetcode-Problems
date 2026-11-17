@@ -15,6 +15,7 @@
 35. Search Insert Position
 50. Pow(x, n)
 58. Length of Last Word
+61. Rotate List
 66. Plus One
 67. Add Binary
 73. Set Matrix Zeroes
