@@ -67,6 +67,7 @@
 1108. Defanging an IP Address
 1232. Check If It Is a Straight Line
 1281. Subtract the Product and Sum of Digits of an Integer
+1290. Convert Binary Number in a Linked List to Integer
 1295. Find Numbers with Even Number of Digits
 1302. Deepest Leaves Sum
 1305. All Elements in Two Binary Search Trees
