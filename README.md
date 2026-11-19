@@ -47,6 +47,7 @@
 326. Power of Three
 338. Counting Bits
 344. Reverse String
+345. Reverse Vowels of a String
 349. Intersection of Two Arrays
 367. Valid Perfect Square
 389. Find the Difference
