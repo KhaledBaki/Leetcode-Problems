@@ -54,6 +54,7 @@
 434. Number of Segments in a String
 459. Repeated Substring Pattern
 500. Keyboard Row
+504. Base 7
 551. Student Attendance Record I
 605. Can Place Flowers
 628. Maximum Product of Three Numbers
