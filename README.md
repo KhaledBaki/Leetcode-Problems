@@ -89,6 +89,7 @@
 1929. Concatenation of Array
 2011. Final Value of Variable After Performing Operations
 2089. Find Target Indices After Sorting Array
+2124. Check if All A's Appears Before All B's
 2181. Merge Nodes in Between Zeros
 2236. Root Equals Sum of Children
 2331. Evaluate Boolean Binary Tree
