@@ -115,6 +115,7 @@
 3110. Score of a String
 3232. Find if Digit Game Can Be Won
 3289. The Two Sneaky Numbers of Digitville
+3467. Transform Array by Parity
 3498. Reverse Degree of a String
 3512. Minimum Operations to Make Array Sum Divisible by K
 3516. Find Closest Person
