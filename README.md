@@ -144,6 +144,7 @@
 662. Maximum Width of Binary Tree
 1260. Shift 2D Grid
 1331. Rank Transform of an Array
+1448. Count Good Nodes in Binary Tree
 ```
 ## 🧩 LeetCode Stats
 
